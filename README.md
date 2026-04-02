@@ -1,7 +1,9 @@
-# Machine Learning Group Assignment  
-## Auction Price Recommendation System
+# Machine Learning Group Assignment
+
+## Extreme Rainfall Risk Classification for Sri Lankan Cities
 
 ## 📌 Project Overview
+
 This project focuses on the **evaluation and comparison of classical machine learning models**
 to recommend an **expected auction-winning price for agricultural products**.  
 The system uses a **publicly available real-world agricultural market dataset** and applies
